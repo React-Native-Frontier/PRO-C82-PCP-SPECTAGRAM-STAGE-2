@@ -1,2 +1,2 @@
-# spectagram-stage-2
-project solution for c82
+# PRO-C82-PCP-SPECTAGRAM-STAGE-2
+Project Solution for C82
